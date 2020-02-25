@@ -1,0 +1,4 @@
+#Tue Feb 25 09:26:03 GST 2020
+base.0=/Users/adcbkony/Desktop/flutterExersice/draw/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
